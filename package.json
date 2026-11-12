@@ -1,0 +1,13 @@
+{
+  "name": "dealer-help-center",
+  "version": "1.0.0",
+  "description": "Customer help articles for dealer service appointments.",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/check-articles.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "UNLICENSED"
+}
