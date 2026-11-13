@@ -1,18 +1,14 @@
 ---
 title: Fees and charges
 audience: customers
-last_reviewed: 2025-04-22
+last_reviewed: 2026-11-13
 ---
 
 # Fees and charges
 
-## Late cancellation fee
+## Cancellation and no-show fees
 
-Appointments canceled less than 24 hours before the start time are charged a **$25** late-cancellation fee.
-
-## No-show fee
-
-If you miss your appointment without canceling, you're charged a **$40** no-show fee.
+There are no cancellation, late-cancellation or no-show fees. Diagnostic and repair pricing isn't affected.
 
 ## Diagnostic fees
 
